@@ -2,15 +2,17 @@
 title: "Reading List"
 ---
 
-I've had the pleasure of rediscovering the joy of reading over the past few years. Here's an overview of what's been on my shelves, by my bedside table and in my backpack, in reverse chronological order:
+I've had the pleasure of rediscovering the joy of reading over the past few years. Here's an overview of what's been on my shelves, by` my bedside table and in my backpack, in reverse chronological order:
 
 ### Currently Reading 
 *Non-Fiction* \
 **Discipline and Punish: The Birth of the Prison** by Michel Foucault \
-**The Anthropocene Reviewed** by John Greene
+**Thinking Fast and Slow** by Daniel Kahneman \
+**Homo Deus** by Yuval Noah Harari 
 
 ### 2021
 *Non-Fiction* \
+**The Anthropocene Reviewed** by John Greene \
 **McMindfulness** by by Ronald E. Purser \
 **21 Lessons for the 21st Century** by Yuval Noah Harari \
 **The Body Keeps the Score** by Bessel Van Der Kolk \
