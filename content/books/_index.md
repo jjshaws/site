@@ -6,9 +6,29 @@ I've had the pleasure of rediscovering the joy of reading over the past few year
 
 ### Currently Reading 
 *Non-Fiction* \
+**The Utopia of Rules** by David Graeber \
+**Stolen Focus** by Johann Hari 
+
+### 2023
+*Non-Fiction* \
+**Leisure, the Basis of Culture** by Josef Pieper \
+**The Dawn of Everything** by David Graeber and David Wengrow \
+
+*Fiction* \
+**Crime and Punishment** by Fyodor Dostoyevsky \
+**Cat's Cradle** by Kurt Vonnegut 
+
+### 2022
+*Non-Fiction* \
 **Discipline and Punish: The Birth of the Prison** by Michel Foucault \
+**Homo Deus** by Yuval Noah Harari \
+**The Nineties** by Chuck Klosterman \
+**Debt: The First 5000 Years** by David Graeber \
 **Thinking Fast and Slow** by Daniel Kahneman \
-**Homo Deus** by Yuval Noah Harari 
+
+*Fiction* \
+**A Gift From the Sea** by Anne Morrow Lindebergh \
+**What We Talk About When We Talk About Love** by Raymond Carver
 
 ### 2021
 *Non-Fiction* \

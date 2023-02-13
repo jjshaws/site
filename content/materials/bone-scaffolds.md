@@ -6,9 +6,4 @@ Bone disorder prevalence is increasing, largely due to an aging global populatio
 
 Watch this video for an overview of the research:
 
-{{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vc4grbCXTqs" title="Bone Scaffolds" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{{< /rawhtml >}}
-
-
-
+{{< youtube Vc4grbCXTqs >}}
