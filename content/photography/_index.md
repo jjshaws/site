@@ -4,6 +4,7 @@ title: "Photography"
 I like to carry my camera with me for the moments when I witness something amazing. Some things I think you may find amazing as well. I've included them below, in reverse chronological order.
 
 I'll leave out the context for now. If a photo speaks you then I'd be happy to share more about it with you.\newlin
+I'll leave out the context for now. If a photo speaks you then I'd be happy to share more about it with you.\newlin
 
 ### 2023
  [People](/photography/people)\
