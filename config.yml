@@ -1,4 +1,4 @@
-baseURL: http://jjshaws.github.io/
+baseURL: https://jjshaws.github.io/
 languageCode: en-us
 title: JamesShaw.info
 theme: ["PaperMod", "hugo-shortcode-gallery"]
