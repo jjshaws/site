@@ -4,7 +4,9 @@ title: "Photography"
 I like to carry my camera with me for the moments when I witness something amazing. Some things I think you may find amazing as well. I've included them below.
 
 ### Sets
-[Winter Water](/photography/winterwater)
+[Winter Water](/photography/winterwater)\
+[Surma River Workers](/photography/surmariverlabourers)\
+[Galata Bridge Fishermen](/photography/istanbulfishermen)
 
 
 ### 2023
