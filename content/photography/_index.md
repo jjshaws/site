@@ -5,7 +5,8 @@ I like to carry my camera with me for the moments when I witness something amazi
 
 ### Sets
 [Winter Water](/photography/winterwater)\
-[Surma River Workers](/photography/surmariverlabourers)
+[Surma River Workers](/photography/surmariverlabourers)\
+[Galata Bridge Fishermen](/photography/istanbulfishermen)
 
 
 ### 2023
