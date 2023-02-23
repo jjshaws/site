@@ -5,7 +5,7 @@ The Galata bridge in Istanbul is a popular fishing spot for locals. It links the
 
 The first photo looks south, facing Eminönü district, with Nuruosmaniye Mosque visible across the river.
 
-Istanbul happens to lie European-Asian continental border. This second photo was taken on Galata bridge, on the European side of Istanbul, capturing the Asian side of Istanbul across the Bosphorus river.
+Istanbul happens to lie European-Asian continental border. This second photo was taken on Galata bridge, on the European side of Istanbul. Across the Bosphorus river, the edge of the Asian continent is visible.
 
 ![DSC02044](/images/photography/istanbulfishermen/DSC02044.JPG)
 
