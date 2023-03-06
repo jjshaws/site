@@ -2,17 +2,17 @@
 title: "Reading List"
 ---
 
-I've had the pleasure of rediscovering the joy of reading over the past few years. Here's an overview of what's been on my shelves, by` my bedside table and in my backpack, in reverse chronological order:
+Here's an overview of what's on my kindle:
 
 ### Currently Reading 
-*Non-Fiction* \
-**The Utopia of Rules** by David Graeber \
-**Stolen Focus** by Johann Hari 
+**Player Piano** by Kurt Vonnegut
 
 ### 2023
 *Non-Fiction* \
+**The Utopia of Rules** by David Graeber \
+**Stolen Focus** by Johann Hari 
 **Leisure, the Basis of Culture** by Josef Pieper \
-**The Dawn of Everything** by David Graeber and David Wengrow \
+**The Dawn of Everything** by David Graeber and David Wengrow 
 
 *Fiction* \
 **Crime and Punishment** by Fyodor Dostoyevsky \
@@ -24,7 +24,7 @@ I've had the pleasure of rediscovering the joy of reading over the past few year
 **Homo Deus** by Yuval Noah Harari \
 **The Nineties** by Chuck Klosterman \
 **Debt: The First 5000 Years** by David Graeber \
-**Thinking Fast and Slow** by Daniel Kahneman \
+**Thinking Fast and Slow** by Daniel Kahneman 
 
 *Fiction* \
 **A Gift From the Sea** by Anne Morrow Lindebergh \
