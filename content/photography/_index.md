@@ -1,18 +1,13 @@
 ---
 title: "Photography"
 ---
-I like to carry my camera with me for the moments when I witness something amazing. Some things I think you may find amazing as well. I've included them below.
-
-### Sets
+I like to carry my camera with me for the moments when I witness something amazing. I'm uploading these in case you might find some interest in them as I do.
+### 2023
 [Winter Water](/photography/winterwater)\
 [Surma River Workers](/photography/surmariverlabourers)\
 [Galata Bridge Fishermen](/photography/istanbulfishermen)\
 [Balinese Macaques](/photography/macaques)
 
-
-### 2023
- [People](/photography/people)\
- [Architecture](/photography/architecture)
 
 ### 2022
 ![P1010290](/images/photography/2022/P1010290.JPG)

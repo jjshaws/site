@@ -4,3 +4,25 @@ title: JamesShaw.info
 theme: "PaperMod"
 disableFastRender: true
 googleAnalytics: "G-F3ZFR9P9GD"
+
+#for papermod search
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+menu:
+  main:
+    - identifier: Photography
+      name: Photography
+      url: /photography/
+      weight: 10
+    - identifier: Readings
+      name: Readings
+      url: /books/
+      weight: 10
+    - identifier: Posts
+      name: Posts
+      url: /posts/
+      weight: 10
