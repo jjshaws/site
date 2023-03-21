@@ -7,6 +7,5 @@ The first photo looks South, facing Eminönü district, with Nuruosmaniye Mosque
 
 Istanbul happens to lie European-Asian continental border. This second photo was taken on Galata bridge, on the European side of Istanbul. Across the Bosphorus river, the edge of the Asian continent is visible.
 
-![DSC02044](/images/photography/istanbulfishermen/DSC02044.JPG)
-
-![DSC02044](/images/photography/istanbulfishermen/DSC02186.JPG)
+{{< load-photoswipe >}}
+{{< gallery dir="/images/photography/istanbulfishermen/" caption-position="none"/>}}

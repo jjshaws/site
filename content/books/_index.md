@@ -1,14 +1,14 @@
 ---
-title: "Reading List"
+title: "Bookshelf"
 ---
 
-Here's an overview of what's on my kindle:
-
 ### Currently Reading 
-**Player Piano** by Kurt Vonnegut
+**Player Piano** by Kurt Vonnegut\
+**Of Boys and Men** by Richard Reeves
 
 ### 2023
 *Non-Fiction* \
+**The Essential Chomsky** by Noam Chomsky\
 **The Utopia of Rules** by David Graeber \
 **Stolen Focus** by Johann Hari 
 **Leisure, the Basis of Culture** by Josef Pieper \
