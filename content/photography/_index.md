@@ -14,4 +14,4 @@ I like to carry my camera with me for the moments when I witness something amazi
 {{< gallery dir="/images/photography/macaques/" caption-position="none"/>}}
 ### [Old Dhaka Street Food Vendors](/photography/streetfood)
 {{< gallery dir="/images/photography/streetcooks/" caption-position="none"/>}}
-### [Favorites By Year](/photography/faves)
+### [Misc](/photography/misc)
