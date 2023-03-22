@@ -12,6 +12,11 @@ outputs:
         - RSS
         - JSON # is necessary
 
+params:
+    homeInfoParams:
+        Title: Hi there! I'm James.
+        Content: I am a software engineer and photographer living in beautiful British Columbia, Canada. Please make yourself comfortable and take a look around! Below, you can find my most recent posts
+
 menu:
   main:
     - identifier: Photography
