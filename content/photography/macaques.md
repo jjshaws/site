@@ -1,7 +1,9 @@
 ---
 title: "Balinese Macaques"
-params:
-  ShowPostNavLinks: true
+date: 2023-03-12
+cover:
+    image: /images/photography/macaques/DSC03083.jpg
+    hidden: true
 ---
 These pictures are Balinese long-tailed macaques in a monkey sanctuary in Ubud, Indonesia.
 

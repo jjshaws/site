@@ -8,6 +8,7 @@ I like to carry my camera with me for the moments when I witness something amazi
 
 If you're interested in prints, canvases or a photographer, feel free to send me an email at jamesshaw0@protonmail.com\
 {{< load-photoswipe >}}
+<!-- 
 ### [Surma River Workers](/photography/surmariverlabourers)
 {{< gallery dir="/images/photography/surmariverlabourers/" caption-position="none"/>}}
 ### [Galata Bridge Fishermen](/photography/istanbulfishermen)
@@ -16,4 +17,4 @@ If you're interested in prints, canvases or a photographer, feel free to send me
 {{< gallery dir="/images/photography/macaques/" caption-position="none"/>}}
 ### [Old Dhaka Street Food Vendors](/photography/streetfood)
 {{< gallery dir="/images/photography/streetcooks/" caption-position="none"/>}}
-### [Misc](/photography/misc)
+### [Misc](/photography/misc) -->

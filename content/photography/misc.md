@@ -1,6 +1,10 @@
 ---
 title: "Misc By Year"
+date: 2021-03-20
 Summary: "A loose series of images from 2019 to 2022"
+cover:
+    image: /images/photography/2023/DSC00825.JPG
+    hidden: true
 ---
 ### 2023
 {{< load-photoswipe >}}
