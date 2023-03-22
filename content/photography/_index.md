@@ -6,7 +6,7 @@ Params:
 ---
 I like to carry my camera with me for the moments when I witness something amazing. I'm uploading these in case you might find some interest in them as I do.
 
-If you're interested in prints, canvases or a photographer, feel free to send me an email at jamesshaw0@protonmail.com\
+If you're in need of prints or a photographer, feel free to send me an email\
 {{< load-photoswipe >}}
 <!-- 
 ### [Surma River Workers](/photography/surmariverlabourers)
