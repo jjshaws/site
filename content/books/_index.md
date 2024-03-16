@@ -3,16 +3,19 @@ title: "Bookshelf"
 ---
 
 ### Currently Reading 
-**The Road** Cormac McCarthy\
+*Non-Fiction* \
+**The Power Broker** by Robert Caro
 
 ### 2023
 *Non-Fiction* \
+**The Origins of Totalitarianism** by Hannah Arendt \
+**The Road** Cormac McCarthy \
 **The Dispossessed** by Ursula K. Le Guin\
 **Player Piano** by Kurt Vonnegut\
 **Of Boys and Men** by Richard Reeves\
 **The Essential Chomsky** by Noam Chomsky\
 **The Utopia of Rules** by David Graeber \
-**Stolen Focus** by Johann Hari\ 
+**Stolen Focus** by Johann Hari \
 **Leisure, the Basis of Culture** by Josef Pieper \
 **The Dawn of Everything** by David Graeber and David Wengrow 
 
